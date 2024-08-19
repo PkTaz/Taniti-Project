@@ -155,7 +155,7 @@ footer {
     position: absolute;
     right: 20px;
     bottom: 20px; 
-    margin-bottom: -49.5%;
+    margin-bottom: -50%;
 }
 
 .contact-form h2 {
@@ -223,4 +223,11 @@ footer {
     margin-top: 18%;
     font-size: 32px;
     font-family: "Josefin Sans", sans-serif;
+}
+
+.img-credit {
+    font-size: 12px;
+    color: #666;
+    margin: 5px 0 0;
+    text-align: center;
 }

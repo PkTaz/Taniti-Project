@@ -133,7 +133,7 @@ h1 {
 }
 
 footer {
-    height: 375px;
+    height: 500px;
     justify-content: center;
     color: white;
     background: linear-gradient(to left, rgb(90, 73, 51) 65%, rgba(210, 180, 140, 0) 100%),
@@ -157,7 +157,7 @@ footer {
     position: absolute;
     right: 20px;
     bottom: 20px; 
-    margin-bottom: -36.5%;
+    margin-bottom: -42%;
 }
 
 .contact-form h2 {
